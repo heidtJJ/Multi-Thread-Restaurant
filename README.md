@@ -1,6 +1,4 @@
 # multi-thread-restaurant
-This project is a mock-up of service at a restaurant. This is an extension It involves multiple
-producers, or waiters, and multiple consumers, or customers. It also incorporates IO.
 
 Our restaurant is an upscale à la carte restaurant, that allows customers to order one of several three
 course menus. This restaurant has one or more waiters. Each waiter waits on one or more customers. Each
