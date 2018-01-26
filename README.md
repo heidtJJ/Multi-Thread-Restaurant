@@ -1,4 +1,4 @@
-# multi-thread-restaurant
+# Multi-Thread-Restaurant
 
 Our restaurant is an upscale à la carte restaurant, that allows customers to order one of several three
 course menus. This restaurant has one or more waiters. Each waiter waits on one or more customers. Each
@@ -11,4 +11,4 @@ waiter to serve the next course. This concept is somewhat similar to the produce
 The synchronized object in this assignment is a table. Each waiter serves one or more tables. Each customer
 eats at a single table allotted to that customer.
 
-Please see MultiThreadedRestaurant.pdf for detail
+Please see <a href ="MultiThreadedRestaurant.pdf"></a> for detail
