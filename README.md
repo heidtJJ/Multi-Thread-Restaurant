@@ -11,4 +11,4 @@ waiter to serve the next course. This concept is somewhat similar to the produce
 The synchronized object in this assignment is a table. Each waiter serves one or more tables. Each customer
 eats at a single table allotted to that customer.
 
-Please see <a href ="MultiThreadedRestaurant.pdf"></a> for detail
+Please see <a href ="MultiThreadedRestaurant.pdf">MultiThreadedRestaurant</a> for detail
