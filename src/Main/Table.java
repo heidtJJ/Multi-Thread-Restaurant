@@ -29,7 +29,6 @@ public class Table {
 		this.isEmpty = false;
 		notifyAll();
 		this.course = course;
-
 	}
 
 	/**
